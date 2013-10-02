@@ -7,8 +7,8 @@ MIT License http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_licens
 （作者表記を消すことがなければ、改変・組み込み等含め自由に利用いただけます。）
 
 動かし方
-・Ruby（http://www.ruby-lang.org/）が動く環境を用意します。
-・Nokogiri（http://nokogiri.org/）をインストールします。
+・Ruby http://www.ruby-lang.org/ が動く環境を用意します。
+・Nokogiri http://nokogiri.org/ をインストールします。
 　Rubygemsを用いて gem install nokogiri とするのが楽です。
 ・imasrss.rb をダウンロードし、必要に応じて内容を書き換えます。OUTPUT_URIなど
 ・ruby imasrss.rb としてスクリプトを動かすと、RSS（RDF）が出力されます。
