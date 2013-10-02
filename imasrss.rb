@@ -8,6 +8,12 @@
 # MIT License（http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_license）の範囲内で自由に利用を認めます。
 # （作者表記を消すことがなければ、改変・組み込み等含め自由に利用いただけます。）
 # 
+# 【追記（重要）】
+# 公式のRSSがないと思ってこのプログラムを書いたのですが、
+# 公式のRSSはリンクで見えないだけで存在自体はしているとのことです。
+# http://idolmaster.jp/blog/?feed=rss2
+# ※情報提供：ふるごむさん https://twitter.com/furugomu/statuses/385384597267025920
+# 
 # 動かし方
 # ・Ruby（http://www.ruby-lang.org/）が動く環境を用意します。
 # ・Nokogiri（http://nokogiri.org/）をインストールします。
